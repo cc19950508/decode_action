@@ -1,4 +1,4 @@
-//Sat Sep 14 2024 18:11:31 GMT+0000 (Coordinated Universal Time)
+//Sun Sep 15 2024 15:52:10 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("星播客抽奖"),
