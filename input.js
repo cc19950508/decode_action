@@ -1,7 +1,4 @@
-/**
- * cron: 40 4 * * *
- *
- * yht
+
  * 益禾堂
  * Author: [checktoke]
  * GitHub: [https://github.com/checkToke/yangtai.git]
